@@ -12,6 +12,11 @@ public class PlayerMove : MonoBehaviour
         Move();
     }
 
+    void jakasDziwnaFunkcjaDoPrzetestowaniaBranchowania() 
+    {
+    }
+    
+   
     void Move()
     {
         float horizontal = Input.GetAxis("HorizontalJoy");
