@@ -10,12 +10,7 @@ public class PlayerMove : MonoBehaviour
     void Update()
     {
         Move();
-    }
-
-    void jakasDziwnaFunkcjaDoPrzetestowaniaBranchowania() 
-    {
-    }
-    
+    } 
    
     void Move()
     {
