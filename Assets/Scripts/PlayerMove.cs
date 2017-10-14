@@ -10,8 +10,7 @@ public class PlayerMove : MonoBehaviour
     void Update()
     {
         Move();
-    } 
-  
+    }  
     
     void Move()
     {
