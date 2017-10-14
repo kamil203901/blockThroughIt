@@ -11,7 +11,8 @@ public class PlayerMove : MonoBehaviour
     {
         Move();
     } 
-   
+  
+    
     void Move()
     {
         float horizontal = Input.GetAxis("HorizontalJoy");
